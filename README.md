@@ -1,1 +1,2 @@
-# MPT-Factor-Model
+# MPT & Factor-Model
+In this project, I dived into different optimization methods in Modern Portfolio Theory, and experimented the effects of different types of covariance, including sample covariance, realized covariance, and factor mdoel's covariance. Comparison between rolling widow and static window is also being studied. The .html file contains all the analysis I've made, as well as insights and findings. The .ipynb file contains the original code. 
